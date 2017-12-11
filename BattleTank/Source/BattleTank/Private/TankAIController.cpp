@@ -1,6 +1,7 @@
 // Lone Wolf Studio(L J K Pearson)
 
 #include "BattleTank.h"
+#include "Tank.h"
 #include "TankAIController.h"
 
 
